@@ -1,0 +1,7 @@
+{
+  "name": "AppPasti",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
